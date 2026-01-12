@@ -1,0 +1,4 @@
+psycopg2-binary==2.9.11
+slack-bolt==1.27.0
+python-dotenv==1.2.1
+
